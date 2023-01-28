@@ -12,7 +12,7 @@ const cards = GamingLibraryData.map(card => {
   
 
   return (
-    <div>
+    <div className=''>
      
      <SectionWrapper>
 
@@ -22,7 +22,7 @@ const cards = GamingLibraryData.map(card => {
         
         <div className='gaming-library-cards d-flex justify-content-between flex-wrap'> 
         
-       {cards}
+         {cards}
           
         </div>
         

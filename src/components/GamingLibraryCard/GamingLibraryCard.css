@@ -1,10 +1,23 @@
 .gaming-library-card {
-    flex: 1 1 100%;
+    flex: 1 1 100%;  
+
 }
+
 .gaming-library-card ul {
     border-bottom: 1px solid var(--color-primary);
     padding: calc(var(--padding-primary) / 4) 0;
+  
 }
+
+@media (max-width: 768px) {
+    .gaming-library-card ul li:not(:nth-child(1)) {
+        display: none;
+} }
+
+@media (max-width: 992px) {
+    .gaming-library-card ul li:not(:nth-child(1),:nth-child(2),:nth-child(5)) {        
+        display: none;
+} }
 
 .gaming-library-card h4 {
 font-size: 1rem;
