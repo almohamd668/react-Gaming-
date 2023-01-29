@@ -11,7 +11,7 @@ const App = () => {
         <Header />
         <Container>
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/react-Gaming-" element={<Home />} />
             <Route path="/Profile" element={<Profile />} />
           </Routes>
         </Container>

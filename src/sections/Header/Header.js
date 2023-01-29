@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className="navbar navbar-expand-md  cyborg-navbar ">
       <div className="container">
-        <Link to="/" className="navbar-brand">
+        <Link to="react-Gaming-/" className="navbar-brand">
           <img src={logo} alt="" />
         </Link>
 
@@ -23,12 +23,12 @@ function Header() {
         <div className="collapse navbar-collapse" id="mainmenu">
           <ul className="navbar-nav ms-auto">
             <NavItem>
-              <Link to="/" className="nav-link">
+              <Link to="/react-Gaming-" className="nav-link">
                 Home
               </Link>
             </NavItem>
             <NavItem>
-              <Link to="/#" className="nav-link">
+              <Link to="/profile" className="nav-link">
                 Browse
               </Link>
             </NavItem>
@@ -42,19 +42,19 @@ function Header() {
               </Link>
               <ul className="dropdown-menu">
                 <li>
-                  <Link to="/#" className="dropdown-item">
+                  <Link to="/profile" className="dropdown-item">
                     Fortnite
                   </Link>
                 </li>
                 <li>
-                  <Link to="/#" className="dropdown-item">
+                  <Link to="/profile" className="dropdown-item">
                     Call of Duty
                   </Link>
                 </li>
               </ul>
             </NavItemDropDown>
             <NavItem>
-              <Link to="/#" className="nav-link">
+              <Link to="/profile" className="nav-link">
                 Streams
               </Link>
             </NavItem>
