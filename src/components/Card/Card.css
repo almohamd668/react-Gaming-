@@ -4,7 +4,11 @@
     flex: 1 25%;
     max-width: 250px;
 }
-
+@media (max-width: 768px) {
+    .most-popular-item {
+        min-width:195px;
+    }
+}
 .card-wrapper{
     background-color: var(--color-dark);
     border-radius: calc( var(--border-radius-primary) / 2);

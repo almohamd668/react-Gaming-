@@ -1,3 +1,14 @@
 .cyborg-navbar {
     min-height: 100px;
 }
+.navbar-toggler:focus {
+    box-shadow:none ;
+}
+
+.navbar-toggler svg {
+    font-size: 33px;
+    color: var(--color-primary);
+}
+ .navbar button {   
+    font-size: 25px;   
+}
