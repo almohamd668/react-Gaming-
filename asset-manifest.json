@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-Gaming-/static/css/main.ec0db8c3.css",
+    "main.css": "/react-Gaming-/static/css/main.599377c1.css",
     "main.js": "/react-Gaming-/static/js/main.7119596c.js",
     "static/media/banner-bg.jpg": "/react-Gaming-/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/react-Gaming-/static/media/popular-05.fb754b91636cbce130d6.jpg",
@@ -10,11 +10,11 @@
     "static/media/popular-04.jpg": "/react-Gaming-/static/media/popular-04.b68fb4322ccb2976873d.jpg",
     "static/media/popular-03.jpg": "/react-Gaming-/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/react-Gaming-/index.html",
-    "main.ec0db8c3.css.map": "/react-Gaming-/static/css/main.ec0db8c3.css.map",
+    "main.599377c1.css.map": "/react-Gaming-/static/css/main.599377c1.css.map",
     "main.7119596c.js.map": "/react-Gaming-/static/js/main.7119596c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec0db8c3.css",
+    "static/css/main.599377c1.css",
     "static/js/main.7119596c.js"
   ]
 }
