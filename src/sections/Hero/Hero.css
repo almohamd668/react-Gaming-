@@ -16,7 +16,10 @@
 }
 @media (max-width: 436px){
     .hero-title {
-        font-size: 43px;
+        font-size: 35px;
+    }
+    .hero-text button  {
+       padding: 10px;
     }
 }
 .hero-title em {

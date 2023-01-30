@@ -4,3 +4,11 @@
     padding: var(--padding-primary);
     margin-top: var(--margin-primary);
 }
+@media (max-width: 768px) {
+   
+    .section-wrapper {
+        padding: calc(var(--padding-primary) / 2);
+        margin-top: calc(var(--margin-primary) /2);
+        padding-left: calc(var(--padding-primary) / 3);
+    }
+}
