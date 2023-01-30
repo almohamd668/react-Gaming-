@@ -3,7 +3,7 @@
     font-weight:400;
     color: var(--color-light);
     border-radius: var(--border-radius-primary);
-    padding: 10px 2px;
+    padding: 10px 25px;
     letter-spacing: .5px;
     transition: all .3s;
 }
