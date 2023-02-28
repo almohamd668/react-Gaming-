@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-Gaming-/static/css/main.3319286d.css",
-    "main.js": "/react-Gaming-/static/js/main.7119596c.js",
+    "main.css": "/react-Gaming-/static/css/main.e2535670.css",
+    "main.js": "/react-Gaming-/static/js/main.faf3d4d3.js",
     "static/media/banner-bg.jpg": "/react-Gaming-/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/react-Gaming-/static/media/popular-05.fb754b91636cbce130d6.jpg",
     "static/media/popular-06.jpg": "/react-Gaming-/static/media/popular-06.193c1358cf48df9af86f.jpg",
@@ -10,11 +10,11 @@
     "static/media/popular-04.jpg": "/react-Gaming-/static/media/popular-04.b68fb4322ccb2976873d.jpg",
     "static/media/popular-03.jpg": "/react-Gaming-/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/react-Gaming-/index.html",
-    "main.3319286d.css.map": "/react-Gaming-/static/css/main.3319286d.css.map",
-    "main.7119596c.js.map": "/react-Gaming-/static/js/main.7119596c.js.map"
+    "main.e2535670.css.map": "/react-Gaming-/static/css/main.e2535670.css.map",
+    "main.faf3d4d3.js.map": "/react-Gaming-/static/js/main.faf3d4d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3319286d.css",
-    "static/js/main.7119596c.js"
+    "static/css/main.e2535670.css",
+    "static/js/main.faf3d4d3.js"
   ]
 }
